@@ -1,14 +1,14 @@
-# Spotify++ IPA for iOS 16 - iOS 18 [Spotify IPA Premium Unlocked]
+# Spotify++ IPA for iOS 26 - iOS 16 [Spotify IPA Premium Unlocked]
 
 ## Overview
-Welcome to the 'Spotify++' MOD repository! This modified project provides iOS users with access to Spotify Premium features without the need for a subscription. It is compatible with iOS 15 to iOS 17.5 and iOS 18 on all iPhones and iPads.
+Welcome to the Spotify++ repository. This project is designed to target the latest iOS versions, starting with iOS 26, and focuses on enhanced app customization and user experience. It is compatible with iOS 26, iOS 18, iOS 17.5, and iOS 15, and works on supported iPhones and iPads.
 
 <div align="center">
   <img src="https://github.com/ClickAppz/Spotify-Premium-IPA/assets/174243168/f2406b2b-0cef-43bb-b4ae-6aef868475c9" width="125" height="125" />
 </div>
 
 ## Installation
-1. **Download Spotify++:** Get the Spotify++ IPA file for iOS 16 - iOS 18 from [iTweaked Store](https://iospack.com/apps/download-itweaked-store/).
+1. **Download Spotify++:** Get the Spotify++ IPA file for iOS 26 - iOS 17 from [iTweaked Store](https://iwixer.com/itweaked-apps-library/).
 2. **Sideloading:** Install the IPA using [TrollStore](https://iospack.com/apps/trollstore/), [Esign](https://iospack.com/apps/esign-ipa-installer/), [Sideloadly](https://iexmo.com/sideloadly/), [AltStore](https://iexmo.com/altstore/), or any preferred sideloading method.
 3. **Trust Certificate:** Trust the developer certificate in your device settings to run the app.
 4. **Login:** Launch Spotify++ and log in with your Spotify account credentials.
@@ -37,7 +37,8 @@ After installing the Spotify++ IPA, a wide range of features becomes available w
 
 ## Spotify++ IPA Compatibility
 **iOS & iPadOS Versions:**
-- iOS 18.3 beta 3, iOS 18.2.1, iOS 18.2, iOS 18.1, iOS 18.0
+- iOS 26.3 Beta 2, iOS 26.2, iOS 26.1, iOS 26.0.1, iOS 26.0.
+- iOS 18.7, iOS 18.6, iOS 18.5, iOS 18.4, iOS 18.3, iOS 18.2, iOS 18.1, iOS 18.0.
 - iOS 17.6, iOS 17.5, iOS 17.4, 17.3.1, 17.3, 17.2.1, 17.2, 17.1.1, 17.1, 17.0.2, 17.0.1, 17
 - iOS 16.6, 16.5.1, 16.5, 16.4.1, 16.4, 16.3.1, 16.3, 16.1, 16.0.3, 16.0.2, 16.0
 - iOS 15.6.1, 15.6, 15.5, 15.4.1, 15.4, 15.3.1, 15.3, 15.2.1, 15.2, 15.1.1, 15.1, 15.0.2, 15.0.1, 15.0
@@ -45,6 +46,7 @@ After installing the Spotify++ IPA, a wide range of features becomes available w
 - iOS 13, 13.1, 13.1.1, 13.1.2, 13.1.3, 13.2, 13.2.1, 13.2.2, 13.2.3, 13.3, 13.3.1, 13.4, 13.4.1, 13.5, 13.5.1, 13.6
 
 **Compatible Devices:**
+- iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, iPhone Air
 - iPhone 16, iPhone 16 Plus, iPhone 16 Pro, iPhone 16 Pro Max
 - iPhone 15, 15 Plus, 15 Pro, 15 Pro Max
 - iPhone 14, 14 Plus, 14 Pro, 14 Pro Max
